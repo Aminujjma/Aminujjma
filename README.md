@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aminujjma
-- 👀 I’m currently learning c++.
-- 🌱 I’m currently doing B.Tech form NSUT
-- 💞️ I’m looking to collaborate on ...
+- 👀An enthuthiastic in coding and web development.
+- 🌱 at the final year in NSUT.
+- 💞️ Just enhancing my skills
 - 📫 How to reach me ...
 
 <!---
