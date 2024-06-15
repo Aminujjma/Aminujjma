@@ -2,7 +2,7 @@
 - 👀An enthuthiastic in coding and web development.
 - 🌱 at the final year in NSUT.
 - 💞️ Just enhancing my skills
-- 📫 How to reach me ...
+- 📫aminujjma78692@gmail.com
 
 <!---
 Aminujjma/Aminujjma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
